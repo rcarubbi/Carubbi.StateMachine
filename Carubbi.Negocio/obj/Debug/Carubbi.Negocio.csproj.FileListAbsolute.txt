@@ -1,0 +1,14 @@
+C:\Users\Raphael\Google Drive\StateMachine\Itau.StateMachine\Itau.Negocio\obj\Debug\Carubbi.Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Raphael\Google Drive\StateMachine\Itau.StateMachine\Itau.Negocio\bin\Debug\Itau.Negocio.dll
+C:\Users\Raphael\Google Drive\StateMachine\Itau.StateMachine\Itau.Negocio\bin\Debug\Itau.Negocio.pdb
+C:\Users\Raphael\Google Drive\StateMachine\Itau.StateMachine\Itau.Negocio\bin\Debug\Itau.StateMachine.dll
+C:\Users\Raphael\Google Drive\StateMachine\Itau.StateMachine\Itau.Negocio\bin\Debug\Itau.StateMachine.pdb
+C:\Users\Raphael\Google Drive\StateMachine\Itau.StateMachine\Itau.Negocio\obj\Debug\Itau.Negocio.dll
+C:\Users\Raphael\Google Drive\StateMachine\Itau.StateMachine\Itau.Negocio\obj\Debug\Itau.Negocio.pdb
+C:\Users\Raphael\Google Drive\StateMachine\Carubbi.StateMachine\Carubbi.Negocio\bin\Debug\Carubbi.Negocio.dll
+C:\Users\Raphael\Google Drive\StateMachine\Carubbi.StateMachine\Carubbi.Negocio\bin\Debug\Carubbi.Negocio.pdb
+C:\Users\Raphael\Google Drive\StateMachine\Carubbi.StateMachine\Carubbi.Negocio\bin\Debug\Carubbi.StateMachine.dll
+C:\Users\Raphael\Google Drive\StateMachine\Carubbi.StateMachine\Carubbi.Negocio\bin\Debug\Carubbi.StateMachine.pdb
+C:\Users\Raphael\Google Drive\StateMachine\Carubbi.StateMachine\Carubbi.Negocio\obj\Debug\Carubbi.Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Raphael\Google Drive\StateMachine\Carubbi.StateMachine\Carubbi.Negocio\obj\Debug\Carubbi.Negocio.dll
+C:\Users\Raphael\Google Drive\StateMachine\Carubbi.StateMachine\Carubbi.Negocio\obj\Debug\Carubbi.Negocio.pdb

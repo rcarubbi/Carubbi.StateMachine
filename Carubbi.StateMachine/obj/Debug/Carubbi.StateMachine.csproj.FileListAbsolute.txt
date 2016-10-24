@@ -1,0 +1,8 @@
+C:\Users\Raphael\Google Drive\StateMachine\Itau.StateMachine\Itau.StateMachine\bin\Debug\Itau.StateMachine.dll
+C:\Users\Raphael\Google Drive\StateMachine\Itau.StateMachine\Itau.StateMachine\bin\Debug\Itau.StateMachine.pdb
+C:\Users\Raphael\Google Drive\StateMachine\Itau.StateMachine\Itau.StateMachine\obj\Debug\Itau.StateMachine.dll
+C:\Users\Raphael\Google Drive\StateMachine\Itau.StateMachine\Itau.StateMachine\obj\Debug\Itau.StateMachine.pdb
+C:\Users\Raphael\Google Drive\StateMachine\Carubbi.StateMachine\Carubbi.StateMachine\bin\Debug\Carubbi.StateMachine.dll
+C:\Users\Raphael\Google Drive\StateMachine\Carubbi.StateMachine\Carubbi.StateMachine\bin\Debug\Carubbi.StateMachine.pdb
+C:\Users\Raphael\Google Drive\StateMachine\Carubbi.StateMachine\Carubbi.StateMachine\obj\Debug\Carubbi.StateMachine.dll
+C:\Users\Raphael\Google Drive\StateMachine\Carubbi.StateMachine\Carubbi.StateMachine\obj\Debug\Carubbi.StateMachine.pdb
