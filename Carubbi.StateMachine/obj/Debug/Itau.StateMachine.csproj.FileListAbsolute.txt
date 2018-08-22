@@ -1,7 +1,0 @@
-C:\ClearCase_Storage\snapshot\OM5_vn_Desenv2\OM5_vob\Componentes\Itau.StateMachine\Itau.StateMachine\bin\Debug\Itau.StateMachine.dll
-C:\ClearCase_Storage\snapshot\OM5_vn_Desenv2\OM5_vob\Componentes\Itau.StateMachine\Itau.StateMachine\bin\Debug\Itau.StateMachine.pdb
-C:\ClearCase_Storage\snapshot\OM5_vn_Desenv2\OM5_vob\Componentes\Itau.StateMachine\Itau.StateMachine\bin\Debug\ItauBE.Core.LC.dll
-C:\ClearCase_Storage\snapshot\OM5_vn_Desenv2\OM5_vob\Componentes\Itau.StateMachine\Itau.StateMachine\bin\Debug\ItauBE.Core.dll
-C:\ClearCase_Storage\snapshot\OM5_vn_Desenv2\OM5_vob\Componentes\Itau.StateMachine\Itau.StateMachine\obj\Debug\ResolveAssemblyReference.cache
-C:\ClearCase_Storage\snapshot\OM5_vn_Desenv2\OM5_vob\Componentes\Itau.StateMachine\Itau.StateMachine\obj\Debug\Itau.StateMachine.dll
-C:\ClearCase_Storage\snapshot\OM5_vn_Desenv2\OM5_vob\Componentes\Itau.StateMachine\Itau.StateMachine\obj\Debug\Itau.StateMachine.pdb
