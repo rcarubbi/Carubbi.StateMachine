@@ -32,7 +32,8 @@ Just create your entity like this:
 
 
         public StateMachine StateMachine { get; set; }
-    }```
+    }
+    ```  
     
     and use it this way:
     
@@ -77,4 +78,5 @@ Just create your entity like this:
         {
             
         }
-   }```
+   }
+   ```
