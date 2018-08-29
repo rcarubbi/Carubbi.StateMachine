@@ -3,7 +3,8 @@ Generic State Machine Aspect-oriented-programming based Implementation
 
 Just create your entity like this:
 
-```  [InitialState("State1")]
+```csharp  
+    [InitialState("State1")]
     public class Entity : IStatedEntity
     {
 
@@ -35,7 +36,8 @@ Just create your entity like this:
     
     and use it this way:
     
-    ```  [TestMethod]
+    ```charp
+        [TestMethod]
         public void TestMethod1()
         {
             StateMachine.Configure();
