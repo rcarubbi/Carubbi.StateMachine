@@ -3,7 +3,7 @@ Generic State Machine Aspect-oriented-programming based Implementation
 
 Just create your entity like this:
 
-```csharp  
+```csharp 
     [InitialState("State1")]
     public class Entity : IStatedEntity
     {
@@ -32,9 +32,10 @@ Just create your entity like this:
 
 
         public StateMachine StateMachine { get; set; }
-    }```  
-    
-    and use it this way:
+   }
+   ```   
+
+  and use it this way:
     
 ```csharp  
 
