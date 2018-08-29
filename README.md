@@ -37,7 +37,7 @@ Just create your entity like this:
     
     and use it this way:
     
-    ```charp
+    ```csharp
         [TestMethod]
         public void TestMethod1()
         {
