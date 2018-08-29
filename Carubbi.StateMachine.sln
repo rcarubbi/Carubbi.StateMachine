@@ -1,15 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Carubbi.StateMachine", "Carubbi.StateMachine\Carubbi.StateMachine.csproj", "{F45ED86E-DF26-4B2A-BAFF-25D8B6955574}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Carubbi.StateMachine", "Carubbi.StateMachine\Carubbi.StateMachine.csproj", "{4ED61A0C-3549-4D9B-BFFB-7188FB55D8F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Carubbi.NegocioTeste", "Carubbi.NegocioTeste\Carubbi.NegocioTeste.csproj", "{7002533C-538F-4480-AE33-B6BE4D1E7762}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Carubbi.UITeste", "Carubbi.UITeste\Carubbi.UITeste.csproj", "{3F701CFC-BAA2-491A-BE7E-E6FFABF39CE1}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Carubbi.Negocio", "Carubbi.Negocio\Carubbi.Negocio.csproj", "{49F5D2E6-F078-4948-B129-7F35E9FC4121}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Carubbi.StateMachine.UnitTests", "Carubbi.StateMachine.UnitTests\Carubbi.StateMachine.UnitTests.csproj", "{6E961325-F52C-4747-967A-9ED8479D9ED3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,25 +13,20 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F45ED86E-DF26-4B2A-BAFF-25D8B6955574}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F45ED86E-DF26-4B2A-BAFF-25D8B6955574}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F45ED86E-DF26-4B2A-BAFF-25D8B6955574}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F45ED86E-DF26-4B2A-BAFF-25D8B6955574}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7002533C-538F-4480-AE33-B6BE4D1E7762}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7002533C-538F-4480-AE33-B6BE4D1E7762}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7002533C-538F-4480-AE33-B6BE4D1E7762}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7002533C-538F-4480-AE33-B6BE4D1E7762}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3F701CFC-BAA2-491A-BE7E-E6FFABF39CE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3F701CFC-BAA2-491A-BE7E-E6FFABF39CE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3F701CFC-BAA2-491A-BE7E-E6FFABF39CE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3F701CFC-BAA2-491A-BE7E-E6FFABF39CE1}.Release|Any CPU.Build.0 = Release|Any CPU
-		{49F5D2E6-F078-4948-B129-7F35E9FC4121}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{49F5D2E6-F078-4948-B129-7F35E9FC4121}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{49F5D2E6-F078-4948-B129-7F35E9FC4121}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{49F5D2E6-F078-4948-B129-7F35E9FC4121}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ED61A0C-3549-4D9B-BFFB-7188FB55D8F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ED61A0C-3549-4D9B-BFFB-7188FB55D8F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ED61A0C-3549-4D9B-BFFB-7188FB55D8F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ED61A0C-3549-4D9B-BFFB-7188FB55D8F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E961325-F52C-4747-967A-9ED8479D9ED3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E961325-F52C-4747-967A-9ED8479D9ED3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E961325-F52C-4747-967A-9ED8479D9ED3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E961325-F52C-4747-967A-9ED8479D9ED3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BD12951-95DA-4260-92F9-F395DDC5B18B}
 	EndGlobalSection
 	GlobalSection(RationalClearCase) = preSolution
 		SourceControlProvider = RationalClearCase
