@@ -34,6 +34,8 @@ namespace Carubbi.StateMachine.UnitTests
             Trace.WriteLine(ent.StateMachine.CurrentState);
             var result3 = ent.Method3(4, 4);
             Trace.WriteLine(ent.StateMachine.CurrentState);
+            ent.Method3(4, 4);
+            Trace.WriteLine(ent.StateMachine.CurrentState);
         }
 
         private void StateMachine_TransitionEnded(object sender, TransitionEventArgs e)
